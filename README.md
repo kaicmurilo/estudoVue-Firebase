@@ -22,9 +22,9 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 
-<!-- Usado para aprendizado guia do medium, links com explicação 
+Usado para aprendizado guia do medium, links com explicação 
 parte 1
-https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-1-9e4c0c11a228
+#https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-1-9e4c0c11a228
 
 parte 2 
-https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-2-143a3084266f -->
+#https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-2-143a3084266f
