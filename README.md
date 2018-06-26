@@ -19,3 +19,12 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+
+<!-- Usado para aprendizado guia do medium, links com explicação 
+parte 1
+https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-1-9e4c0c11a228
+
+parte 2 
+https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-2-143a3084266f -->
